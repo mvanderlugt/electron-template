@@ -11,8 +11,8 @@ Electron app using typescript to render Gmail
   c. Enter personal access token
   d. Enter public email address
 3. Run ```npm install```
-4. Run ```npm start```
+4. Run ```npm run start```
 
 ## To Package for Your Computer:
-1. Run ```npm make```
+1. Run ```npm run make```
 2. Install resulting package in `out/make/**`
